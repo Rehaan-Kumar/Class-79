@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+input {
+    margin: 10px;
+}
+
+#submit {
+    margin: 10px;
+}
+
+#sort {
+    margin: 10px;
+    display: none;
+}
